@@ -12,4 +12,4 @@ As explained in the report (Report.pdf), the main challenge to face was the big 
 The model achieved 86% accuracy on private test set
 
 ## Final Grade
-Still in evaluation
+5.5/5.5 points
