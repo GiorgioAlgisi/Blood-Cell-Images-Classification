@@ -1,5 +1,5 @@
 # Blood-Cell-Images-Classification
-Project related to the course of Artificial "Neural Networks and Deep Learning" (AN2DL) at POLIMI (polytechnic university of Milan)
+Project related to the course of "Artificial Neural Networks and Deep Learning" (AN2DL) at POLIMI (polytechnic university of Milan)
 
 ## Introduction
 This project was developed to solve an image classification problem as part of [First challenge of the course of Artificial Neural Networks and Deep Learning (AN2DL)](https://www.linkedin.com/posts/airlab-polimi_artificialneuralnetworks-deeplearning-imageclassification-activity-7266783804885803008-4nDc?utm_source=share&utm_medium=member_desktop).
